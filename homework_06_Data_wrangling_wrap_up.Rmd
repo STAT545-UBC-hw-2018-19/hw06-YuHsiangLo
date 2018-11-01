@@ -1,0 +1,22 @@
+---
+title: 'Homework 06: Data wrangling wrap up'
+author: "Roger Yu-Hsiang Lo"
+date: '2018-11-09'
+always_allow_html: yes
+output:
+  github_document:
+    toc: true
+    toc_depth: 3
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE, message = FALSE, warning = FALSE, fig.align = 'center')
+```
+
+
+
+
+
+
+
+
